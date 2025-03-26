@@ -1,0 +1,114 @@
+main {
+  background-color: #fafafa;
+}
+
+.feedIG {
+  display: flex;
+  gap: 50px;
+  margin-left: 60px;
+  margin-top: 72px;
+  color: #262626;
+}
+
+.infoTerry {
+  display: flex;
+  gap: 29px;
+  flex-direction: column;
+  margin-top: 17px;
+  margin-left: 60px;
+  align-items: left;
+}
+
+.headProfile {
+  display: flex;
+  gap: 20px;
+}
+
+.stadistics {
+  display: flex;
+  gap: 35px;
+}
+
+.followbutton {
+  border-radius: 5px;
+  background-color: #0095f6;
+  color: #ffffff;
+  font-weight: bold;
+  border: none;
+  padding: 7px 28px;
+}
+
+.featured {
+  display: flex;
+  gap: 60px;
+  margin-top: 60px;
+  margin-left: 70px;
+  color: #262626;
+  font-size: 13px;
+}
+
+.faturedTop {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+hr {
+  border: none;
+  border-bottom: 1px solid #d3d3d3;
+  margin-top: 55px;
+}
+
+.iconsList {
+  display: flex;
+  gap: 63px;
+  justify-content: left;
+  flex-direction: row;
+  margin-left: 170px;
+  font-size: 12px;
+}
+
+.photos {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.mphoto {
+  border: 14px solid #ffffff;
+}
+
+.bottomPage {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.bottom1 {
+  display: flex;
+  gap: 16px;
+  font-size: 12px;
+  margin-left: 140px;
+}
+
+.bottom2 {
+  display: flex;
+  gap: 15px;
+  color: grey;
+  margin-left: 137px;
+  font-size: 12px;
+}
+
+.lenguageSelect {
+  border: none;
+  outline: none;
+  color: grey;
+  margin-bottom: 30px;
+  font-size: 12px;
+}
+
+.icons {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}

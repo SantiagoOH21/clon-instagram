@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  font-family: "Roboto", sans-serif;
+}
+
+ul {
+  list-style: none;
+}
+
+h2 {
+  font-weight: normal;
+}
+
+a {
+  color: #808080;
+}

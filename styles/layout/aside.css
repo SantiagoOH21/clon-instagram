@@ -1,0 +1,26 @@
+aside {
+  margin-left: 249px;
+  width: 245px;
+}
+
+.logoig {
+  margin-top: 45px;
+}
+
+.nav_frames {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  justify-content: left;
+  margin-top: 45px;
+}
+
+.frames {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.frames > a {
+  color: #000000;
+}

@@ -1,0 +1,15 @@
+.frames :hover {
+  color: #d3d3d3;
+}
+
+.iconsList :hover {
+  color: #000000;
+  border-top: 1px solid #000000;
+}
+.icons :hover {
+  border-top: none;
+}
+
+.bottomPage :hover {
+  color: #000000;
+}
